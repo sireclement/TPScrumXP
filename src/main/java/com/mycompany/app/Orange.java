@@ -1,9 +1,6 @@
 package com.mycompagny.app;
 
 public class Orange {
-  public double price;
-  public String origin;
-
   protected double price;
   protected String origin;
 
